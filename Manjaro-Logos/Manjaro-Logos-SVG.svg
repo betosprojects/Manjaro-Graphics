@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="658.75"
+   height="803.75"
+   viewBox="0 0 658.75 803.75"
+   sodipodi:docname="Manjaro-Logos-SVG.svg"
+   inkscape:export-filename="/home/burton/Pictures/Manjaro/Manjaro-Logos/New-Logos/manjaro-logo-older.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#8e8e8e"
+     bordercolor="#ff0000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="950"
+     id="namedview4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="0.58724728"
+     inkscape:cx="361.20043"
+     inkscape:cy="351.73493"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <sodipodi:guide
+       position="390.12969,791.09631"
+       orientation="0,1"
+       id="guide3338" />
+    <sodipodi:guide
+       position="354.00657,563.52066"
+       orientation="0,1"
+       id="guide3340" />
+    <sodipodi:guide
+       position="374.47634,523.78523"
+       orientation="0,1"
+       id="guide3342" />
+    <sodipodi:guide
+       position="236.00438,191.45253"
+       orientation="1,0"
+       id="guide3344" />
+    <sodipodi:guide
+       position="421.43639,130.04323"
+       orientation="1,0"
+       id="guide3346" />
+    <sodipodi:guide
+       position="462.37593,266.10698"
+       orientation="1,0"
+       id="guide3348" />
+    <sodipodi:guide
+       position="647.80794,335.94501"
+       orientation="1,0"
+       id="guide3350" />
+    <sodipodi:guide
+       position="494.88673,9.6328318"
+       orientation="0,1"
+       id="guide3352" />
+    <sodipodi:guide
+       position="9.6328318,273.3316"
+       orientation="1,0"
+       id="guide3354" />
+    <sodipodi:guide
+       position="290.18906,421.43639"
+       orientation="0,1"
+       id="guide3356" />
+    <sodipodi:guide
+       position="195.06484,216.73872"
+       orientation="1,0"
+       id="guide3358" />
+    <sodipodi:guide
+       position="131.24733,461.17182"
+       orientation="0,1"
+       id="guide3360" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Logo-Older"
+     style="display:inline">
+    <path
+       style="fill:#35bf5c;fill-opacity:1;stroke:none;stroke-width:16.70000076;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 9.6328125 12.654297 L 9.6328125 342.57812 L 195.06445 342.57812 L 195.06445 240.22852 L 421.43555 240.22852 L 421.43555 12.654297 L 9.6328125 12.654297 z M 462.375 12.654297 L 462.375 794.11719 L 647.80859 794.11719 L 647.80859 12.654297 L 462.375 12.654297 z M 236.00391 279.96484 L 236.00391 794.11719 L 421.43555 794.11719 L 421.43555 279.96484 L 236.00391 279.96484 z M 9.6328125 382.31445 L 9.6328125 794.11719 L 195.06445 794.11719 L 195.06445 382.31445 L 9.6328125 382.31445 z "
+       id="path3386"
+       inkscape:export-filename="/home/burton/Pictures/Manjaro/Manjaro-Logos/New-Logos/manjaro-logo-older.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logo-New"
+     style="display:none">
+    <path
+       style="fill:#35bf5c;fill-opacity:1;stroke:none;stroke-width:16.70000076;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 9.6328125,12.654297 0,781.462893 185.4316375,0 0,-553.88867 226.3711,0 0,-227.574223 -411.8027375,0 z m 452.7421875,0 0,781.462893 185.43359,0 0,-781.462893 -185.43359,0 z m -226.37109,267.310543 0,514.15235 185.43164,0 0,-514.15235 -185.43164,0 z"
+       id="path3379"
+       inkscape:export-filename="/home/burton/Pictures/Manjaro/Manjaro-Logos/New-Logos/New-Manjaro-Logo.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
