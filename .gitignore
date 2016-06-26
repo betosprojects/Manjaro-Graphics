@@ -32,9 +32,8 @@ $RECYCLE.BIN/
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
- # Personal
- #*.txt
--Notes.txt
-+Notes.txt
-+MasterNotes.txt
-+.Notes.txt.kate-swp
+# Personal
+#*.txt
+Notes.txt
+*.kate-swp
+node_modules/
