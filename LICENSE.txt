@@ -1,7 +1,7 @@
-		   Regarding Manjaro Logos:
-		   Creating for the Manjaro GNU/Linux community.
-		   The Manjaro GNU/Linux Logos are not my creation, please contact manjaro for details or permission to use the logos.
-		 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////     
+Note:	 Regarding Manjaro Logos:
+Creating for the Manjaro GNU/Linux community.
+The Manjaro GNU/Linux Logos are not my creation, please check Manjaro for logo details and other info.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////     
 		      
 		       The Artistic License 2.0
 
